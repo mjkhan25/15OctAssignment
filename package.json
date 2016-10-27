@@ -1,0 +1,20 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "This is my first application for Heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "body-parser"
+  ],
+  "author": "Akhil",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
